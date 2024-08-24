@@ -1,0 +1,4 @@
+[toolchain]
+channel = "1.80.0"  # Specify your Rust version here
+components = ["rustfmt", "clippy"]  
+targets = ["x86_64-unkno wn-linux-gnu"]  
